@@ -1,4 +1,4 @@
-You can directly use my colab notebook where you just need to run all the cells, that’s it!
+You can directly use colab notebook.
 
 a) !pip install buildozer
 b) !pip install cython==0.29.19
